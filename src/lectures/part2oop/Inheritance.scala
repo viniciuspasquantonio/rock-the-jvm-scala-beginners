@@ -1,6 +1,6 @@
 package lectures.part2oop
 
-object InheritanceAndTraits extends App {
+object Inheritance extends App {
 
   class Animal {
     val creatureType = "wild"
@@ -51,6 +51,6 @@ object InheritanceAndTraits extends App {
   //preventing overrides
   //1 - use final
   // 2 use final on the entire class
-  //3 seal the class = extended 
+  //3 seal the class = extended
 
 }
